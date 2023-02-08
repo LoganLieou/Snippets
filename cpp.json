@@ -1,0 +1,36 @@
+{
+	"template": {
+		"prefix": "cppt",
+		"body": [
+			"#include <bits/stdc++.h>",
+			"#define ll long long",
+			"#define f first",
+			"#define s second",
+			"#define MOD 1000000007",
+			"using namespace std;",
+			"",
+			"int main() {",
+			"\tcin.tie(0); ios::sync_with_stdio(0);",
+			"\t$0",
+			"}"
+		],
+		"description": "standard c++ template"
+	},
+	"test_template": {
+		"prefix": "cptt",
+		"body": [
+			"#include <bits/stdc++.h>",
+			"#define ll long long",
+			"#define f first",
+			"#define s second",
+			"#define MOD 1000000007",
+			"using namespace std;",
+			"",
+			"int main() {",
+			"\tcin.tie(0); ios::sync_with_stdio(0);",
+			"\tfreopen(\"$1\", \"r\", stdin);",
+			"}"
+		],
+		"description": "test c++ template"
+	}
+}
